@@ -1,4 +1,4 @@
-# JournVlog - My VLSI Journey
+# JournVeriLOG - My VLSI Journey
 
 ## 🛠️ Tools Used
 - **Quartus Prime** (Synthesis & FPGA implementation)
