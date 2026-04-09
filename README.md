@@ -1,2 +1,13 @@
-# JournVlog
-"My VLSI journey from basic gates to complex systems - Documented step by step"
+# JournVlog - My VLSI Journey
+
+## 🛠️ Tools Used
+- **Quartus Prime** (Synthesis & FPGA implementation)
+- **ModelSim** (Simulation & waveform analysis)
+- **Git** (Version control)
+
+## 📊 How Interviewers Can Verify My Work
+
+### Simulation Results (ModelSim)
+```bash
+cd 01_basic_gates
+vsim -do run_sim.do
