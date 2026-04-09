@@ -2,7 +2,7 @@
 
 ## 🛠️ Tools Used
 - **Quartus Prime** (Synthesis & FPGA implementation)
-- **ModelSim** (Simulation & waveform analysis)
+- **ModelSim or QuestaSim** (Simulation & waveform analysis)
 - **Git** (Version control)
 
 ## 📊 How Interviewers Can Verify My Work
